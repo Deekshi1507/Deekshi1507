@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm K. Deekshitha 👋
 
-<!--
-**Deekshi1507/Deekshi1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Aspiring AI & Data Professional
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science, interested in building practical solutions using AI, machine learning and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- Java
+- C / C++
+- Excel
+- HTML
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+
+Featured Project
+
+### Multi-Disease Healthcare Insurance Recommendation System
+An AI-based system that analyzes health and lifestyle information to predict health risks, estimate medical expenses and recommend suitable insurance policies.
+
+**Tech:** Python • XGBoost • Machine Learning • Data Analysis
+
+ 🌐 My Portfolio
+
+**[View my portfolio](https://deekshi1507.github.io/deekshitha-portfolio/)**
+
+## 🔗 Connect with me
+
+**[LinkedIn](YOUR-LINKEDIN-LINK)**
+
+*Always learning. Always building.*
